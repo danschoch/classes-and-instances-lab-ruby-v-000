@@ -1,6 +1,6 @@
 class Dog
 end
 
-Dog.new = fido
+fido = Dog.new
 Dog.new = snoopy
 Dog.new = lassie
